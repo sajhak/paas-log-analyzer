@@ -1,6 +1,6 @@
 # paas-log-analyzer
 
-Build the project, copy log-analyzer.war into <DAS_HOME>/repository/deployment/webapps
+Build the project, copy log-analyzer.war into \<DAS_HOME\>/repository/deployment/webapps
 
 Copy mysql java connector jar accordingly.
 
